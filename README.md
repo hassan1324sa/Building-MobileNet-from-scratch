@@ -12,11 +12,6 @@ This repository contains a **from-scratch implementation of MobileNet** (V1, V2,
 - [Quick Start](#quick-start)
 - [Model Architecture](#model-architecture)
 - [Training](#training)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [References](#references)
-
 ---
 
 ## Key Features 🌟
