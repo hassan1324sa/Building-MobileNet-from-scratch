@@ -9,8 +9,7 @@ This repository contains a **from-scratch implementation of MobileNet** (V1, V2,
 ## Table of Contents
 - [Key Features](#key-features)
 - [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Model Architecture](#model-architecture)
+
 - [Training](#training)
 ---
 
